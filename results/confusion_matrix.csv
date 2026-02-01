@@ -1,0 +1,5 @@
+﻿,Pred positive,Pred danger,Pred critical,Pred emergency
+True positive,3155,535,50,22
+True danger,493,1700,106,27
+True critical,36,166,155,30
+True emergency,20,14,27,50
